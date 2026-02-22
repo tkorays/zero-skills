@@ -76,6 +76,11 @@ npx skills list -g
 | `npx skills add kepano/obsidian-skills --skill obsidian-markdown -g -y` | Obsidian Flavored Markdown Skill |
 | `npx skills add kepano/obsidian-skills --skill json-canvas -g -y` | JSON Canvas Skill |
 | `npx skills add kepano/obsidian-skills --skill obsidian-bases -g -y` | Obsidian Bases Skill |
+| `npx skills add ComposioHQ/awesome-claude-skills --skill video-downloader -g -y` | YouTube Video Downloader |
+| `npx skills add Shubhamsaboo/awesome-llm-apps --skills project-planner -g -y` | Project Planner |
+| `npx skills add vercel-labs/agent-browser --skill agent-browser -g -y` | Browser Automation with agent-browser |
+| `npx skills add wshobson/agents --skill python-project-structure -g -y` | Python Project Structure & Module Architecture |
+| `npx skills add wshobson/agents --skill python-packaging -g -y` | Python Packaging |
 
 ## Common Mistakes
 

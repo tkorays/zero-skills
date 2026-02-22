@@ -7,3 +7,6 @@ This repository contains custom skills that can be used with LLMs to enhance pro
 - 在创建前务必确认本地是否有一些创建skill的工具、SKILL技能（比如skill-creator等），合理利用已有经验确保创建的skill遵循规范；
 - 创建完成后请校验创建的新skill是否符合规范，是否满足用户的要求；
 
+# 创建脚本执行任务
+
+分析过程中可能需要创建脚本执行任务，请将脚本放到当前目录下的一个临时目录tmp中。
