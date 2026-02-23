@@ -81,6 +81,7 @@ npx skills list -g
 | `npx skills add vercel-labs/agent-browser --skill agent-browser -g -y` | Browser Automation with agent-browser |
 | `npx skills add wshobson/agents --skill python-project-structure -g -y` | Python Project Structure & Module Architecture |
 | `npx skills add wshobson/agents --skill python-packaging -g -y` | Python Packaging |
+| `npx skills add anthropics/skills --skill pdf -g -y` | PDF Processing Guide |
 
 ## Common Mistakes
 
